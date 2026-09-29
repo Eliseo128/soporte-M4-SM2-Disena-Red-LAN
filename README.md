@@ -11,3 +11,5 @@ https://github.com/Evadelcarmen/practicas-packetTracer.git
 
 ## INTERCONECTIVIDAD-DE-REDES
 https://github.com/SamuelGA-hub846/INTERCONECTIVIDAD-DE-REDES.git
+## practicas-cisco-packet-tracer
+https://github.com/Nico1091/practicas-cisco-packet-tracer.git
