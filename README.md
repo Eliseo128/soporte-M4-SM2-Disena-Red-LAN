@@ -6,4 +6,5 @@ https://github.com/lucascastronuovo/Laboratorio-V.git
 ## Packet_Tracer_Proyectos
 https://github.com/SoyWilliamsNet/Packet_Tracer_Proyectos.git
 
-
+## practicas-packetTracer
+https://github.com/Evadelcarmen/practicas-packetTracer.git
